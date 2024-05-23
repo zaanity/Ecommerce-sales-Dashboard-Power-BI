@@ -12,7 +12,7 @@ This project is an E-commerce sales dashboard built with Power BI. It utilizes a
 
 ## Usage
 
-1. **Clone the repository**: `git clone https://github.com/zaanity/ecommerce-sales-dashboard.git`
+1. **Clone the repository**: `git clone https://github.com/zaanity/Ecommerce-sales-Dashboard-Power-BI.git`
 2. **Open in Power BI**: Load the .pbix file in Power BI Desktop.
 3. **Explore the Dashboard**: Utilize the interactive features to analyze sales data.
 
