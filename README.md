@@ -2,6 +2,8 @@
 
 This project is an E-commerce sales dashboard built with Power BI. It utilizes a clean dataset of yearly product sales across various cities.
 
+![Screenshot 2024-05-24 002140](https://github.com/zaanity/Ecommerce-sales-Dashboard-Power-BI/assets/129985767/8a3e5a8b-1dcc-4d86-8820-18055899122a)
+
 ## Features
 
 - **Real-Time Data Integration**: Ensures up-to-date sales insights.
